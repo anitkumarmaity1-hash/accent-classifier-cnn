@@ -1,4 +1,4 @@
-# Accent Classifier CNN 2D
+# ACCENT-BASED REGIONAL ORIGIN IDENTIFICATION 
 
 This project classifies accents using a CNN model.
 
